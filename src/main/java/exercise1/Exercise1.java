@@ -5,7 +5,7 @@ public class Exercise1 {
 		return null;
 	}
 
-	public Employee buildBaseSalaryPlusCommissionEmployee(String name, int baseSalary, int commission) {
+	public Employee buildBaseSalaryPlusCommissionEmployee(String name, int baseSalary, int commission, int sell) {
 		return null;
 	}
 
